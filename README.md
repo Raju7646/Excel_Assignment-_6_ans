@@ -13,3 +13,4 @@ Ctrl + Shift + >: Increase selected font
 
 Answer5 : Three kinds of What-If Analysis tools come with Excel: Scenarios, Goal Seek, and Data Tables. 
 Answer6 ;
+![Headers](https://github.com/Raju7646/Excel_Assignment-_6_ans/assets/109983697/3b7b634e-9d79-40cc-9231-3baf6eb5638e)
